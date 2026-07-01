@@ -20,7 +20,7 @@
 ## 🚀 Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,github,vscode" />
 </p>
 
 ---

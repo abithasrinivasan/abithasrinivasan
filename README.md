@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abitha S</h1>
-<h3 align="center">💻 BE CSE Student | AI Enthusiast | Web Developer</h3>
+<h3 align="center">💻 BE CSE Student </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;AI+Enthusiast;Full+Stack+Learner;Always+Learning+New+Technologies" />
@@ -11,7 +11,7 @@
 
 - 🎓 B.E Computer Science and Engineering
 - 🏫 Alpha College of Engineering, Chennai
-- 🎓 Graduation Year: 2027
+- 🎓 Expected May 2027
 - 🌱 Currently learning Java, JavaScript and AI.
 - 💡 Passionate about AI and Web Development.
 

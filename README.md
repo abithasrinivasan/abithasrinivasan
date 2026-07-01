@@ -57,17 +57,6 @@ A responsive shopping website built using web technologies.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abithasrinivasan&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abithasrinivasan&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abithasrinivasan&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 

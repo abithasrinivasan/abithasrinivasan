@@ -2,7 +2,7 @@
 <h3 align="center">💻 BE CSE Student </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Full+Stack+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Always+Learning+New+Technologies" />
 </p>
 
 ---
